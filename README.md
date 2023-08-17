@@ -11,4 +11,8 @@ This is a simple console-based Guessing Game written in Python. The game randoml
 
 Feel free to give it a try and challenge yourself to guess the correct number within the limited chances!
 
+# Note: 
+1) There are 2 programs one of the is has CLI (Command Line Interface) and the other one has GUI (Graphical User Interface)
+2) Use Both and give them a try and please give your suggestions
+
 # Author: Wakil Ahmad Hamidi
